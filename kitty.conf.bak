@@ -251,7 +251,8 @@ modify_font baseline 1
 #: }}}
 
 #: Cursor customization {{{
-# cursor #cc7f7f
+
+cursor #cc7f7f
 
 #: Default cursor color. If set to the special value none the cursor
 #: will be rendered with a "reverse video" effect. It's color will be
@@ -2370,9 +2371,3 @@ macos_traditional_fullscreen no
 #: }}}
 
 #: }}}
-
-
-# BEGIN_KITTY_THEME
-# Catppuccin-Mocha
-include current-theme.conf
-# END_KITTY_THEME
